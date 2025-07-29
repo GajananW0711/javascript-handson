@@ -1,15 +1,16 @@
-// var city ="Pune";
-// var bf= "Gajanan";
-// var country = "India";
-// var school ="Spicer";
-// var clg = "JSPM RSCOE"
+var city ="Pune";
+var bf= "Gajanan";
+var country = "India";
+var school ="Spicer";
+var clg = "JSPM RSCOE"
 
-// console.log("My city name is " + city);
-// console.log("My Best Friend name is " + bf);
-// console.log( country + " is my country" );
-// console.log("My School name is " + school);
-// console.log("My College name is " + clg);
+console.log("My city name is " + city);
+console.log("My Best Friend name is " + bf);
+console.log( country + " is my country" );
+console.log("My School name is " + school);
+console.log("My College name is " + clg);
 
+console.log("**************************************************************");
 
 
 var fullname;
